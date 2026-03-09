@@ -67,3 +67,4 @@ Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo, modificarlo
 
 ---
 Desarrollado con ❤️ para el proyecto de React.
+ 
