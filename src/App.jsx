@@ -12,7 +12,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={'/inventory-pwa-master/'}>
       <Routes>
         <Route path="/login" element={<LoginPage />} />
 
